@@ -1,3 +1,33 @@
+.form_label {
+	margin-bottom: 8px;
+	
+	font-weight: 400;
+	font-size: 13px;
+	color: #94A3B8;
+	line-height: 12px;
+}
+
+.form-select {
+	border-radius: 24px;
+	font-size: 15px;
+    background-image: 
+	background-size: 16px 20px;
+}
+.toogle_block  {
+	margin-top: 45px;
+}
+
+.toogle_block h2{
+	
+	font-style: normal;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 24px;
+
+	/* Steel Gray/900 */
+
+	color: #0F172A;
+}
 .old_title_button {
 	background: #4B759E;
     border: 1px solid #152842;
@@ -35,14 +65,13 @@
 	margin-bottom: 45px;
 }
 
-.old-form-select {
-	border-radius: 0px;
+.form-select {
+	border-radius: 30px;
     font-size: 15px;
     background-size: 16px 20px;
-    background: #D9E2EF;
-    border: 1px solid #152842;
-    box-shadow: inset 0px 1px 2px rgb(10 15 26 / 8%);
-    color: #666787;
+    background: #ededf1;
+    border: 1px solid #c9cadf;
+    color: #060606;
 
 
 	display: block;
@@ -148,3 +177,4 @@
 .mb5{
     margin-bottom: 5px;
 }
+
